@@ -11,6 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <h1> Hello world </h1>
+        <a href="index.html">web</a>
         <?php
         // put your code here
         ?>
